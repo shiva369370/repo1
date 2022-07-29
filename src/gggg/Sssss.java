@@ -2,6 +2,6 @@ package gggg;
 
 public class Sssss {
 public static void main(String[] args) {
-	System.out.println("ugh");
+	System.out.println("ughfsd");
 }
 }
